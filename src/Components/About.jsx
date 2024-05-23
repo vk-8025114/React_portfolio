@@ -24,18 +24,18 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm a computer science student studying at NIT Warangal. I am passionate about problem solving and am looking forward for a wonderful organisation for self growth as well as society's. I have over 300+ problems solved in leetcode and 500+ problems across all platforms.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
+  "Problem Solving",
+  "Full stack developer",
+  "Java developer",
+  "MERN stack developer",
+  "Chess player",
   "Graphic design",
 ];
 
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I like to solve real life problems, also i have participated in Hackathons for same reason. I am also passionate about problem solving, rendering me a leetcode rating of 1778";
 
 const About = () => {
   return (
